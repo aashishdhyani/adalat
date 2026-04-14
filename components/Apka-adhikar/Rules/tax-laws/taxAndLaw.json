@@ -1,0 +1,68 @@
+{
+    "administrative_and_tax_laws": {
+      "administrative_laws": [
+        {
+          "act_name": "Right to Information Act",
+          "year": 2005,
+          "purpose": "Promotes transparency by providing citizens access to information held by public authorities."
+        },
+        {
+          "act_name": "Administrative Tribunals Act",
+          "year": 1985,
+          "purpose": "Establishes tribunals to adjudicate disputes related to government employees' service matters."
+        },
+        {
+          "act_name": "Lokpal and Lokayuktas Act",
+          "year": 2013,
+          "purpose": "Creates ombudsman institutions to investigate corruption allegations against public officials."
+        },
+        {
+          "act_name": "Central Vigilance Commission Act",
+          "year": 2003,
+          "purpose": "Establishes the Central Vigilance Commission to oversee anti-corruption measures in government."
+        },
+        {
+          "act_name": "Government of Union Territories Act",
+          "year": 1963,
+          "purpose": "Provides for legislative assemblies and governance structures in Union Territories."
+        },
+        {
+          "act_name": "Delimitation Act",
+          "year": 2002,
+          "purpose": "Facilitates the redrawing of electoral constituencies based on population changes."
+        }
+      ],
+      "tax_laws": [
+        {
+          "act_name": "Income Tax Act",
+          "year": 1961,
+          "purpose": "Governs the levy, assessment, and collection of income tax for individuals and entities."
+        },
+        {
+          "act_name": "Goods and Services Tax Act",
+          "year": 2017,
+          "purpose": "Implements a unified indirect tax system for goods and services across India."
+        },
+        {
+          "act_name": "Customs Act",
+          "year": 1962,
+          "purpose": "Regulates duties on imports and exports and controls cross-border trade."
+        },
+        {
+          "act_name": "Central Excise Act",
+          "year": 1944,
+          "purpose": "Imposes excise duties on goods manufactured or produced in India (partially subsumed by GST)."
+        },
+        {
+          "act_name": "Finance Act",
+          "year": "Annual",
+          "purpose": "Amends tax laws and introduces fiscal policies through the annual Union Budget."
+        },
+        {
+          "act_name": "Wealth Tax Act",
+          "year": 1957,
+          "purpose": "Levied tax on the wealth of individuals and entities (abolished in 2015 but relevant historically)."
+        }
+      ]
+    }
+  }

@@ -1,0 +1,105 @@
+{
+    "personal_laws": [
+      {
+        "religion": "Hindu",
+        "laws": {
+          "marriage": {
+            "act_name": "Hindu Marriage Act, 1955",
+            "description": "Governs marriage, divorce, restitution of conjugal rights, and conditions for valid marriage for Hindus, Sikhs, Buddhists, and Jains."
+          },
+          "adoption": {
+            "act_name": "Hindu Adoption and Maintenance Act, 1956",
+            "description": "Regulates adoption procedures and maintenance obligations for Hindus, including eligibility and legal effects of adoption."
+          },
+          "succession": {
+            "act_name": "Hindu Succession Act, 1956",
+            "description": "Defines rules of inheritance and succession for Hindus, including intestate and testamentary succession, with amendments for gender equality."
+          },
+          "maintenance": {
+            "act_name": "Hindu Adoption and Maintenance Act, 1956",
+            "description": "Provides for maintenance of dependents, including wives, children, and aged parents, under Hindu law."
+          }
+        }
+      },
+      {
+        "religion": "Muslim",
+        "laws": {
+          "marriage": {
+            "act_name": "Muslim Personal Law (Shariat) Application Act, 1937",
+            "description": "Governs marriage under Islamic law, including nikah, mehr, and conditions for valid marriage, supplemented by the Dissolution of Muslim Marriages Act, 1939 for divorce."
+          },
+          "divorce": {
+            "act_name": "Dissolution of Muslim Marriages Act, 1939; Muslim Women (Protection of Rights on Divorce) Act, 1986",
+            "description": "Regulates grounds for divorce for Muslim women and provides maintenance rights post-divorce, with triple talaq banned under the Muslim Women (Protection of Rights on Marriage) Act, 2019."
+          },
+          "succession": {
+            "act_name": "Muslim Personal Law (Shariat) Application Act, 1937",
+            "description": "Governs inheritance based on Islamic law, with rules for distribution of property among heirs as per Shariat."
+          },
+          "maintenance": {
+            "act_name": "Muslim Women (Protection of Rights on Divorce) Act, 1986",
+            "description": "Provides for maintenance for Muslim women post-divorce, supplemented by general laws like Section 125 of CrPC."
+          }
+        }
+      },
+      {
+        "religion": "Christian",
+        "laws": {
+          "marriage": {
+            "act_name": "Indian Christian Marriage Act, 1872",
+            "description": "Governs the solemnization and registration of marriages for Christians in India."
+          },
+          "divorce": {
+            "act_name": "Divorce Act, 1869",
+            "description": "Regulates divorce and matrimonial causes for Christians, including grounds for dissolution and judicial separation."
+          },
+          "succession": {
+            "act_name": "Indian Succession Act, 1925",
+            "description": "Governs intestate and testamentary succession for Christians, with specific provisions in Sections 29–49."
+          },
+          "maintenance": {
+            "act_name": "Divorce Act, 1869; Section 125 of CrPC",
+            "description": "Provides for maintenance during divorce proceedings and under general criminal procedure for spouses and children."
+          }
+        }
+      },
+      {
+        "religion": "Parsi",
+        "laws": {
+          "marriage": {
+            "act_name": "Parsi Marriage and Divorce Act, 1936",
+            "description": "Governs marriage and divorce for Parsis, including registration and grounds for dissolution."
+          },
+          "succession": {
+            "act_name": "Indian Succession Act, 1925",
+            "description": "Applies to Parsis for intestate and testamentary succession, with specific provisions in Sections 50–56."
+          },
+          "maintenance": {
+            "act_name": "Parsi Marriage and Divorce Act, 1936",
+            "description": "Provides for maintenance during and post-divorce for Parsi spouses and children."
+          }
+        }
+      },
+      {
+        "religion": "Others",
+        "laws": {
+          "marriage": {
+            "act_name": "Special Marriage Act, 1954",
+            "description": "Governs secular and interfaith marriages for all citizens, including Sikhs, Buddhists, Jains, and those opting for civil marriage, irrespective of religion."
+          },
+          "adoption": {
+            "act_name": "Juvenile Justice (Care and Protection of Children) Act, 2015",
+            "description": "Provides a secular framework for adoption for all communities, including non-Hindus, through the Central Adoption Resource Authority (CARA)."
+          },
+          "succession": {
+            "act_name": "Indian Succession Act, 1925",
+            "description": "Applies to Sikhs, Buddhists, Jains, and others not covered by Hindu or Muslim personal laws for intestate and testamentary succession."
+          },
+          "maintenance": {
+            "act_name": "Section 125 of CrPC; Protection of Women from Domestic Violence Act, 2005",
+            "description": "Secular laws providing maintenance for spouses, children, and parents, applicable to all communities."
+          }
+        }
+      }
+    ]
+  }

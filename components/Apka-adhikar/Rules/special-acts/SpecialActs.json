@@ -1,0 +1,750 @@
+{
+    "acts": [
+      {
+        "name": "Narcotic Drugs and Psychotropic Substances Act, 1985",
+        "prompt": "Explain the Narcotic Drugs and Psychotropic Substances Act, 1985 – its purpose, key provisions, and punishments.",
+        "details": {
+          "purpose": "The Narcotic Drugs and Psychotropic Substances Act, 1985 (NDPS Act) aims to consolidate and amend laws related to narcotic drugs and psychotropic substances, curb drug trafficking, and prevent substance abuse. It seeks to regulate the cultivation, manufacture, possession, sale, purchase, transport, and consumption of these substances, ensuring they are used only for medical and scientific purposes while imposing stringent measures against illegal activities.",
+          "key_provisions": [
+            "Prohibits activities like cultivation, production, possession, sale, or transport of narcotic drugs and psychotropic substances, except for authorized medical or scientific purposes.",
+            "Establishes special courts for speedy trials of drug-related offenses.",
+            "Empowers authorities to seize and forfeit properties acquired through drug trafficking.",
+            "Imposes strict bail conditions, requiring the court to be satisfied that the accused is not guilty.",
+            "Regulates controlled substances used in pharmaceuticals to prevent misuse."
+          ],
+          "punishments": [
+            "Imprisonment from 7 years to life, depending on the quantity and nature of the substance involved (small, commercial, or intermediate quantities).",
+            "Fines ranging from ₹1 lakh to ₹2 lakh or higher, with no upper limit in some cases.",
+            "Death penalty for repeat offenders or cases involving large quantities (e.g., 1 kg of heroin or 20 kg of cannabis).",
+            "Rigorous imprisonment with no possibility of suspended sentences for serious offenses."
+          ],
+          "additional_information": {
+            "enforcing_authorities": ["Narcotics Control Bureau (NCB)", "State Police", "Central Bureau of Investigation (CBI)", "Customs Department", "Directorate of Revenue Intelligence (DRI)"],
+            "amendments": ["1988: Introduced death penalty and enhanced penalties.", "2001: Rationalized punishment structure.", "2014: Eased access to essential narcotic drugs for medical use."],
+            "notable_cases": ["State of Punjab vs. Balbir Singh (1994): Clarified search and seizure procedures.", "Mohan Lal vs. State of Punjab (2018): Emphasized procedural safeguards."]
+          }
+        }
+      },
+      {
+        "name": "Unlawful Activities (Prevention) Act, 1967",
+        "prompt": "Give a detailed summary of the Unlawful Activities (Prevention) Act, 1967 and its implications on national security.",
+        "details": {
+          "summary": "The Unlawful Activities (Prevention) Act, 1967 (UAPA) is a key anti-terrorism law in India designed to prevent unlawful activities and associations that threaten the sovereignty, integrity, and security of the nation. It targets terrorist activities, membership in unlawful organizations, and actions that disrupt national harmony. The Act empowers the government to ban organizations and detain individuals involved in such activities, with a focus on safeguarding national security.",
+          "key_provisions": [
+            "Declares organizations as unlawful or terrorist if they engage in activities threatening national integrity.",
+            "Criminalizes membership, funding, or support for banned organizations or terrorist acts.",
+            "Allows detention without charge for up to 180 days during investigations of terrorism-related cases.",
+            "Permits interception of communications and seizure of properties linked to terrorism.",
+            "Establishes special courts for trials under the Act."
+          ],
+          "implications_on_national_security": [
+            "Strengthens the government's ability to preempt and counter terrorist threats by targeting organizations and individuals involved in anti-national activities.",
+            "Facilitates international cooperation by aligning with global anti-terrorism frameworks.",
+            "Criticized for potential misuse due to broad definitions of 'unlawful activities' and stringent bail provisions, raising concerns about civil liberties.",
+            "Enhances the role of the National Investigation Agency (NIA) in tackling cross-border terrorism and internal security threats."
+          ],
+          "punishments": [
+            "Imprisonment up to 7 years for unlawful activities.",
+            "Life imprisonment or death penalty for terrorist acts causing death or significant harm.",
+            "Fines as determined by the court.",
+            "Forfeiture of properties linked to terrorist activities."
+          ],
+          "additional_information": {
+            "enforcing_authorities": ["National Investigation Agency (NIA)", "State Police", "Ministry of Home Affairs", "Central Reserve Police Force (CRPF)"],
+            "amendments": ["2004: Added terrorist organization listings.", "2008: Extended detention periods.", "2019: Allowed designation of individuals as terrorists."],
+            "notable_cases": ["Arup Bhuyan vs. State of Assam (2011): Limited automatic criminalization of membership.", "Sajal Chakraborty vs. Union of India (2020): Upheld 2019 amendments."]
+          }
+        }
+      },
+      {
+        "name": "Arms Act, 1959",
+        "prompt": "Explain the Arms Act, 1959 – who it applies to and what regulations it imposes on firearm possession.",
+        "details": {
+          "explanation": "The Arms Act, 1959 regulates the manufacture, possession, sale, transport, import, and export of arms and ammunition in India to prevent illegal trafficking and misuse. It applies to all individuals, manufacturers, dealers, and organizations in India, including civilians, security personnel, and businesses involved in the arms trade. The Act ensures that firearms are possessed and used only by authorized individuals under strict conditions to maintain public safety.",
+          "who_it_applies_to": [
+            "Civilians seeking to possess firearms for self-defense, sport, or other lawful purposes.",
+            "Manufacturers and dealers involved in the production and sale of arms and ammunition.",
+            "Security forces and law enforcement agencies (exemptions apply for official duties).",
+            "Importers and exporters of arms and ammunition."
+          ],
+          "regulations_on_firearm_possession": [
+            "Mandatory licensing for possession, manufacture, or sale of firearms and ammunition.",
+            "Prohibits carrying firearms in public places without lawful authority or license.",
+            "Restricts possession of prohibited arms (e.g., automatic weapons) to authorized entities like the military.",
+            "Requires periodic renewal of licenses and compliance with safety standards.",
+            "Empowers authorities to seize illegal arms and revoke licenses for violations."
+          ],
+          "punishments": [
+            "Imprisonment from 3 to 7 years for illegal possession or manufacture.",
+            "Fines up to ₹10,000 or more.",
+            "Life imprisonment for manufacturing or possessing prohibited arms.",
+            "Enhanced penalties for repeat offenders."
+          ],
+          "additional_information": {
+            "enforcing_authorities": ["State Police", "District Magistrates (for licensing)", "Central Bureau of Investigation (CBI)", "Border Security Force (BSF)"],
+            "amendments": ["1983: Increased penalties for trafficking.", "2019: Limited the number of firearms per individual and enhanced penalties."],
+            "notable_cases": ["State of Punjab vs. Dalbir Singh (2012): Struck down mandatory death penalty.", "Sanjay Dutt vs. State (1994): Conviction for illegal possession."]
+          }
+        }
+      },
+      {
+        "name": "Prevention of Money Laundering Act, 2002",
+        "prompt": "Summarize the Prevention of Money Laundering Act, 2002 – key definitions, authorities involved, and punishment.",
+        "details": {
+          "summary": "The Prevention of Money Laundering Act, 2002 (PMLA) aims to combat money laundering by preventing the legitimization of proceeds from illegal activities and providing for the confiscation of such proceeds. It targets financial crimes linked to predicate offenses (e.g., drug trafficking, corruption) and strengthens India’s compliance with international anti-money laundering standards.",
+          "key_definitions": [
+            "Money Laundering: The process of concealing the origin of illegally obtained money to make it appear legitimate.",
+            "Proceeds of Crime: Property derived from or obtained through criminal activity listed as a predicate offense.",
+            "Predicate Offense: Scheduled offenses (e.g., trafficking, fraud) that generate proceeds leading to money laundering.",
+            "Attachment: Provisional seizure of property involved in money laundering."
+          ],
+          "authorities_involved": [
+            "Enforcement Directorate (ED): Primary agency for investigation and prosecution.",
+            "Financial Intelligence Unit-India (FIU-IND): Analyzes suspicious transaction reports.",
+            "Reserve Bank of India (RBI): Oversees compliance by banks and financial institutions.",
+            "State Police: Assists in investigations related to predicate offenses."
+          ],
+          "punishments": [
+            "Imprisonment from 3 to 7 years for money laundering offenses.",
+            "Fines with no upper limit, depending on the scale of the offense.",
+            "Up to 10 years imprisonment if linked to NDPS Act offenses.",
+            "Confiscation of properties identified as proceeds of crime."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Criminalizes money laundering and related activities.",
+              "Mandates KYC norms and transaction reporting by financial institutions.",
+              "Allows attachment and confiscation of proceeds of crime."
+            ],
+            "amendments": ["2009: Expanded predicate offenses.", "2012: Enhanced ED powers.", "2019: Clarified corporate liability."],
+            "notable_cases": ["Vijay Madanlal Choudhary vs. Union of India (2022): Upheld PMLA validity.", "Karti Chidambaram Case (2018): ED probe in INX Media."]
+          }
+        }
+      },
+      {
+        "name": "Official Secrets Act, 1923",
+        "prompt": "What is the Official Secrets Act, 1923 and how does it regulate sensitive information?",
+        "details": {
+          "explanation": "The Official Secrets Act, 1923 is a colonial-era law designed to protect official secrets and prevent espionage or unauthorized disclosure of sensitive government information that could harm India’s sovereignty, security, or interests. It regulates the handling of classified information by government officials, private citizens, and entities to safeguard national security.",
+          "regulation_of_sensitive_information": [
+            "Prohibits obtaining, communicating, or publishing classified information (e.g., documents, sketches, or plans) prejudicial to the state’s safety.",
+            "Criminalizes espionage, including sharing information with foreign powers or unauthorized persons.",
+            "Restricts access to prohibited places (e.g., military installations) without authorization.",
+            "Allows interception of communications to prevent leaks of sensitive information.",
+            "Imposes liability on both officials and civilians for mishandling official secrets."
+          ],
+          "punishments": [
+            "Imprisonment up to 7 years for espionage-related offenses.",
+            "Imprisonment up to 3 years for unauthorized disclosure of information.",
+            "Fines as determined by the court.",
+            "Enhanced penalties during wartime or national emergencies."
+          ],
+          "additional_information": {
+            "enforcing_authorities": ["Central Bureau of Investigation (CBI)", "State Police", "Intelligence Bureau (IB)", "Ministry of Home Affairs"],
+            "amendments": ["1967: Expanded scope to include economic and scientific secrets."],
+            "notable_cases": ["S.P. Gupta vs. Union of India (1981): Discussed misuse of the Act.", "Coomi Kapoor Case (1975): Journalists charged during Emergency."]
+          }
+        }
+      },
+      {
+        "name": "Protection of Women from Domestic Violence Act, 2005",
+        "prompt": "Describe the Protection of Women from Domestic Violence Act, 2005 – its coverage and enforcement mechanisms.",
+        "details": {
+          "coverage": "The Protection of Women from Domestic Violence Act, 2005 is a civil law aimed at protecting women from domestic violence in India. It covers women in domestic relationships, including wives, live-in partners, mothers, sisters, and daughters, who face physical, emotional, sexual, verbal, or economic abuse from family members or partners. The Act recognizes a broad definition of domestic violence and provides remedies like protection orders, residence orders, and monetary relief to ensure the safety and dignity of victims.",
+          "enforcement_mechanisms": [
+            "Protection Officers: Appointed by the state government to assist victims in filing complaints, accessing legal aid, and securing relief.",
+            "Magistrate Courts: Handle applications for protection orders, residence orders, custody orders, and compensation, ensuring speedy resolution.",
+            "Service Providers: NGOs and organizations registered under the Act provide shelter, medical aid, and counseling to victims.",
+            "Police Assistance: Police are mandated to inform victims of their rights and assist in filing Domestic Incident Reports (DIRs).",
+            "Breach of Orders: Violation of protection orders is a criminal offense, leading to arrest and prosecution."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Defines domestic violence to include physical, emotional, sexual, verbal, and economic abuse.",
+              "Grants women the right to reside in the shared household, even if not legally owned.",
+              "Provides for monetary relief for medical expenses, loss of earnings, and maintenance.",
+              "Allows interim and ex-parte orders for immediate protection."
+            ],
+            "punishments": [
+              "Imprisonment up to 1 year and/or fine up to ₹20,000 for breaching protection orders.",
+              "Civil remedies like compensation and maintenance as determined by the court."
+            ],
+            "enforcing_authorities": ["Protection Officers", "Judicial Magistrates", "State Police", "Registered Service Providers"],
+            "notable_cases": [
+              "S.R. Batra vs. Taruna Batra (2007): Clarified the scope of 'shared household' under the Act.",
+              "Krishna Bhattacharjee vs. Sarathi Choudhury (2016): Upheld the right to maintenance under the Act."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Dowry Prohibition Act, 1961",
+        "prompt": "Explain the Dowry Prohibition Act, 1961 – what constitutes dowry and how it is punished.",
+        "details": {
+          "explanation": "The Dowry Prohibition Act, 1961 aims to eradicate the practice of dowry in India by criminalizing the giving, taking, or demanding of dowry. Enacted to curb dowry-related harassment and violence against women, the Act applies to all communities and seeks to promote gender equality by addressing a deep-rooted social evil.",
+          "what_constitutes_dowry": [
+            "Dowry is defined as any property, valuable security, or money given or agreed to be given, directly or indirectly, by one party to a marriage to the other party, their family, or any other person, as a condition or consideration for the marriage.",
+            "Includes gifts, cash, or property demanded by the groom’s family before, during, or after marriage.",
+            "Excludes voluntary gifts given without demand, provided they are customary and recorded in a list maintained by the bride or groom."
+          ],
+          "punishments": [
+            "Imprisonment for a minimum of 5 years and a fine of at least ₹15,000 or the value of the dowry (whichever is higher) for giving, taking, or abetting dowry.",
+            "Imprisonment up to 2 years and a fine up to ₹10,000 for demanding dowry.",
+            "No leniency unless exceptional circumstances are proven, ensuring stringent enforcement."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Prohibits both giving and receiving dowry, holding all parties accountable.",
+              "Mandates the transfer of dowry received to the bride within 3 months, failing which it is held in trust.",
+              "Empowers courts to issue injunctions against dowry demands.",
+              "Dowry Prohibition Officers appointed to enforce the Act and investigate complaints."
+            ],
+            "enforcing_authorities": ["State Police", "Dowry Prohibition Officers", "Judicial Magistrates"],
+            "amendments": ["1984: Enhanced penalties and clarified dowry definitions.", "1986: Made offenses non-bailable and cognizable."],
+            "notable_cases": [
+              "S. Gopal Reddy vs. State of A.P. (1996): Upheld stringent punishment for dowry demands.",
+              "L.V. Jadhav vs. Shankarrao (1983): Clarified the scope of dowry under the Act."
+            ]
+          }
+        }
+      },
+      {
+        "name": "The Prohibition of Child Marriage Act, 2006",
+        "prompt": "Summarize the Prohibition of Child Marriage Act, 2006 – age limits, punishments, and exceptions.",
+        "details": {
+          "summary": "The Prohibition of Child Marriage Act, 2006 (PCMA) seeks to prevent child marriages in India by setting minimum age limits for marriage and imposing penalties for violations. It aims to protect children from the physical, emotional, and social harms associated with early marriage, promoting their education and well-being.",
+          "age_limits": [
+            "Minimum marriageable age is 21 for males and 18 for females.",
+            "A 'child' is defined as a person below 21 (male) or 18 (female) at the time of marriage.",
+            "Marriages below these age limits are voidable at the option of the underage party."
+          ],
+          "punishments": [
+            "Imprisonment up to 2 years and/or a fine up to ₹1 lakh for promoting, performing, or abetting a child marriage.",
+            "Same penalty applies to parents, guardians, or any person who negligently fails to prevent a child marriage.",
+            "Offenses are cognizable and non-bailable, ensuring strict enforcement."
+          ],
+          "exceptions": [
+            "Marriages contracted before the Act’s enactment (2006) are not affected.",
+            "No punishment for the child bride or groom, only for adults facilitating the marriage.",
+            "Customary practices are not exempt unless they comply with the age limits."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Allows a child married before the legal age to seek annulment within 2 years of attaining majority.",
+              "Provides for maintenance and custody of children born from child marriages.",
+              "Appoints Child Marriage Prohibition Officers to prevent and report child marriages.",
+              "Courts can issue injunctions to stop child marriages."
+            ],
+            "enforcing_authorities": ["Child Marriage Prohibition Officers", "State Police", "Judicial Magistrates"],
+            "notable_cases": [
+              "Seema vs. Ashwani Kumar (2006): Mandated registration of all marriages to curb child marriages.",
+              "Independent Thought vs. Union of India (2017): Strengthened protections against child marriage."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Protection of Children from Sexual Offences Act, 2012",
+        "prompt": "Give a comprehensive overview of the POCSO Act, 2012 including its objectives and classifications of offences.",
+        "details": {
+          "overview": "The Protection of Children from Sexual Offences Act, 2012 (POCSO Act) is a comprehensive law designed to protect children under 18 years from sexual abuse, sexual harassment, and pornography. It provides a child-friendly framework for reporting, investigating, and prosecuting sexual offenses, ensuring the safety and dignity of child victims while imposing stringent penalties on offenders.",
+          "objectives": [
+            "To safeguard children from all forms of sexual exploitation and abuse.",
+            "To establish a child-sensitive judicial process, including special courts and procedures to minimize trauma.",
+            "To ensure mandatory reporting of child sexual abuse cases by individuals and institutions.",
+            "To deter offenders through severe punishments and fast-track trials."
+          ],
+          "classifications_of_offences": [
+            "Penetrative Sexual Assault: Includes acts like rape, with imprisonment from 7 years to life and fines.",
+            "Aggravated Penetrative Sexual Assault: Involves assault by persons in authority (e.g., police, teachers) or in heinous circumstances, with imprisonment from 10 years to life.",
+            "Sexual Assault: Non-penetrative acts like touching with sexual intent, with 3–5 years imprisonment.",
+            "Aggravated Sexual Assault: Aggravated forms of non-penetrative assault, with 5–7 years imprisonment.",
+            "Sexual Harassment: Includes gestures, words, or acts with sexual intent (e.g., showing pornography), with up to 3 years imprisonment.",
+            "Using Children for Pornography: Producing, storing, or disseminating child pornography, with 5–7 years imprisonment."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Mandates reporting of child sexual abuse; failure to report is punishable with up to 6 months imprisonment.",
+              "Establishes special courts for speedy trials and child-friendly procedures (e.g., video testimony).",
+              "Prohibits disclosure of the child’s identity to protect privacy.",
+              "Provides for rehabilitation and compensation for victims."
+            ],
+            "punishments": [
+              "Vary by offense, ranging from 3 years to life imprisonment, with fines.",
+              "Mandatory minimum sentences for most offenses, with no possibility of reduction.",
+              "Enhanced penalties for repeat offenders and aggravated offenses."
+            ],
+            "enforcing_authorities": ["Special Courts", "State Police", "Child Welfare Committees", "National Commission for Protection of Child Rights (NCPCR)"],
+            "amendments": ["2019: Increased minimum punishments and introduced death penalty for aggravated penetrative sexual assault."],
+            "notable_cases": [
+              "State vs. Satish (2021): Clarified boundaries of sexual assault under POCSO.",
+              "Nirbhaya Case (2012): Influenced stricter amendments to POCSO in 2019."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Companies Act, 2013",
+        "prompt": "Summarize the Companies Act, 2013 – incorporation process, types of companies, and compliance.",
+        "details": {
+          "summary": "The Companies Act, 2013 is a comprehensive legislation governing the formation, management, functioning, and dissolution of companies in India. It replaced the Companies Act, 1956, introducing modern governance standards, enhanced transparency, and investor protection. The Act regulates all aspects of corporate operations, ensuring compliance with legal and financial norms.",
+          "incorporation_process": [
+            "Obtain Digital Signature Certificate (DSC) for proposed directors.",
+            "Apply for Director Identification Number (DIN) for directors.",
+            "Reserve a unique company name via the SPICe+ (Simplified Proforma for Incorporating Company Electronically Plus) form with the Ministry of Corporate Affairs (MCA).",
+            "File incorporation documents, including Memorandum of Association (MoA) and Articles of Association (AoA), along with SPICe+ forms for PAN, TAN, and other registrations.",
+            "Receive Certificate of Incorporation from the Registrar of Companies (RoC) upon approval, granting legal recognition to the company."
+          ],
+          "types_of_companies": [
+            "Private Company: Limited to 200 members, restricts share transfer, and prohibits public share invitations.",
+            "Public Company: No limit on members, allows free share transfer, and can invite public subscriptions.",
+            "One Person Company (OPC): Single shareholder with limited liability, introduced for small entrepreneurs.",
+            "Section 8 Company: Non-profit organizations for charitable purposes, with restricted profit distribution.",
+            "Producer Company: For agricultural and allied activities, primarily for farmers."
+          ],
+          "compliance": [
+            "Mandatory annual filings: Financial statements, annual returns, and audit reports with RoC.",
+            "Appointment of auditors for mandatory audits (except for small companies and OPCs under certain thresholds).",
+            "Holding Annual General Meetings (AGMs) and maintaining statutory registers.",
+            "Compliance with Corporate Social Responsibility (CSR) obligations for companies meeting specified financial thresholds.",
+            "Adherence to board meeting requirements, including at least four meetings annually."
+          ],
+          "additional_information": {
+            "enforcing_authorities": ["Ministry of Corporate Affairs (MCA)", "Registrar of Companies (RoC)", "National Company Law Tribunal (NCLT)"],
+            "punishments": [
+              "Fines up to ₹25 lakh for non-compliance with incorporation or governance norms.",
+              "Imprisonment up to 7 years for fraud or mismanagement.",
+              "Disqualification of directors for non-compliance."
+            ],
+            "notable_cases": [
+              "Satyam Computer Services Case (2009): Led to stricter governance norms in the 2013 Act.",
+              "Tata Sons vs. Cyrus Mistry (2016): Clarified boardroom governance and minority shareholder rights."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Insolvency and Bankruptcy Code, 2016",
+        "prompt": "Explain the Insolvency and Bankruptcy Code, 2016 – key processes, timelines, and authorities involved.",
+        "details": {
+          "explanation": "The Insolvency and Bankruptcy Code, 2016 (IBC) provides a unified framework for resolving insolvency and bankruptcy for companies, partnerships, and individuals in India. It aims to maximize asset value, promote entrepreneurship, and ensure timely resolution of distressed entities while balancing creditor and debtor interests.",
+          "key_processes": [
+            "Corporate Insolvency Resolution Process (CIRP): Initiated by financial or operational creditors or the debtor for resolving corporate insolvency, leading to a resolution plan or liquidation.",
+            "Liquidation: If CIRP fails, the company’s assets are sold to repay creditors as per the priority waterfall.",
+            "Fast-Track CIRP: Simplified process for small companies or startups with shorter timelines.",
+            "Pre-Packaged Insolvency: Introduced for MSMEs, allowing debtor-creditor agreements before formal insolvency proceedings.",
+            "Individual Bankruptcy: Governs personal insolvency and bankruptcy for individuals and partnership firms."
+          ],
+          "timelines": [
+            "CIRP: Maximum 180 days, extendable by 90 days (total 270 days) for resolution; otherwise, liquidation is triggered.",
+            "Fast-Track CIRP: 90 days, extendable by 45 days.",
+            "Application Admission: National Company Law Tribunal (NCLT) must admit or reject applications within 14 days.",
+            "Liquidation: Assets to be distributed within 1 year of commencement, though extensions are possible."
+          ],
+          "authorities_involved": [
+            "National Company Law Tribunal (NCLT): Adjudicating authority for corporate insolvency.",
+            "Insolvency and Bankruptcy Board of India (IBBI): Regulates insolvency professionals and processes.",
+            "Insolvency Professionals (IPs): Manage CIRP, act as resolution professionals, or liquidators.",
+            "Committee of Creditors (CoC): Comprises financial creditors who approve resolution plans.",
+            "Debt Recovery Tribunal (DRT): Handles individual and partnership insolvency."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Moratorium on debt recovery actions during CIRP to protect the debtor.",
+              "Priority to financial creditors over operational creditors in repayment.",
+              "Cross-border insolvency framework (under development) to handle international cases."
+            ],
+            "punishments": [
+              "Imprisonment up to 7 years and fines for fraudulent insolvency applications or concealment of assets.",
+              "Penalties for non-cooperation with insolvency professionals."
+            ],
+            "notable_cases": [
+              "Essar Steel Case (2019): Upheld CoC supremacy in resolution plan approval.",
+              "Jet Airways Case (2019): Demonstrated complexities in airline insolvency under IBC."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Prevention of Corruption Act, 1988",
+        "prompt": "What is the Prevention of Corruption Act, 1988? List its objectives and main offences.",
+        "details": {
+          "explanation": "The Prevention of Corruption Act, 1988 (PCA) is an anti-corruption law aimed at curbing corruption among public servants in India. It consolidates and strengthens provisions to prevent bribery and corrupt practices in public offices, ensuring integrity and accountability in governance.",
+          "objectives": [
+            "To prevent and penalize corrupt practices by public servants.",
+            "To deter bribery and misuse of public office for personal gain.",
+            "To ensure transparency and accountability in public administration.",
+            "To align with international anti-corruption standards."
+          ],
+          "main_offences": [
+            "Taking Bribes: Public servant accepting or attempting to obtain undue advantage for performing or abstaining from official duties (Section 7).",
+            "Criminal Misconduct: Public servant abusing public funds, obtaining pecuniary advantage, or enriching themselves illicitly (Section 13).",
+            "Bribing a Public Servant: Offering or giving undue advantage to influence a public servant’s actions (Section 8).",
+            "Abetment: Assisting or instigating corruption offenses (Section 12).",
+            "Possession of Disproportionate Assets: Public servant holding assets disproportionate to known income sources (Section 13(1)(e))."
+          ],
+          "additional_information": {
+            "punishments": [
+              "Imprisonment from 3 to 7 years and fines for bribery-related offenses.",
+              "Imprisonment up to 7 years for criminal misconduct.",
+              "Confiscation of disproportionate assets."
+            ],
+            "enforcing_authorities": ["Central Bureau of Investigation ( CAG)", "Anti-Corruption Bureau (State)", "Vigilance Departments", "Judicial Magistrates"],
+            "amendments": ["2018: Introduced corporate liability, mandatory prosecution sanction timelines, and harsher penalties."],
+            "notable_cases": [
+              "A. Raja 2G Case (2017): Acquitted due to lack of evidence under PCA.",
+              "Vineet Narain vs. Union of India (1997): Strengthened CBI’s role in corruption cases."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Benami Transactions (Prohibition) Act, 1988",
+        "prompt": "Explain the Benami Transactions (Prohibition) Act, 1988 – definition of benami and penalties imposed.",
+        "details": {
+          "explanation": "The Benami Transactions (Prohibition) Act, 1988 aims to prohibit benami transactions, where property is held by one person but paid for by another, often to conceal ownership or evade taxes. The Act targets black money, tax evasion, and illicit property holdings, ensuring transparency in property transactions.",
+          "definition_of_benami": [
+            "A benami transaction is one where property is transferred to or held by a person (benamidar), but the consideration is paid by another person, who is the real owner.",
+            "The property is held for the benefit of the person who paid for it, not the nominal owner.",
+            "Excludes transactions where property is held for a spouse, child, or in a fiduciary capacity (e.g., trustee), or where the buyer’s name is disclosed in good faith."
+          ],
+          "penalties_imposed": [
+            "Imprisonment up to 7 years and/or fine up to 25% of the fair market value of the property for entering into benami transactions.",
+            "Confiscation of benami property by the government without compensation.",
+            "Imprisonment up to 3 years and/or fine for providing false information in benami cases.",
+            "No re-transfer of benami property to the real owner is permitted."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Prohibits initiating or continuing benami transactions.",
+              "Empowers authorities to provisionally attach suspected benami properties.",
+              "Establishes Adjudicating Authorities and Appellate Tribunals for case resolution."
+            ],
+            "enforcing_authorities": ["Income Tax Department", "Adjudicating Authority under the Act", "Initiating Officers (Income Tax)", "Appellate Tribunal"],
+            "amendments": ["2016: Strengthened enforcement, introduced confiscation, and clarified benami definitions."],
+            "notable_cases": [
+              "R. Rajagopal vs. Union of India (2019): Upheld constitutional validity of 2016 amendments.",
+              "M.C. Sood vs. Union of India (2017): Clarified scope of benami transactions."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Information Technology Act, 2000",
+        "prompt": "Describe the Information Technology Act, 2000 – cybercrimes covered and penalties prescribed.",
+        "details": {
+          "description": "The Information Technology Act, 2000 (IT Act) is India’s primary legislation governing cyber activities, aimed at promoting e-commerce, facilitating electronic governance, and combating cybercrimes. Enacted to address the legal challenges of the digital era, it provides a framework for recognizing electronic records, digital signatures, and regulating cyber activities while prescribing penalties for cybercrimes to ensure cybersecurity and protect users.",
+          "cybercrimes_covered": [
+            "Hacking (Section 66): Unauthorized access or damage to computer systems, networks, or data, including causing loss or disruption.",
+            "Identity Theft (Section 66C): Fraudulent use of another person’s electronic signature, password, or unique identification feature.",
+            "Cheating by Personation (Section 66D): Impersonating someone online to deceive or cheat others.",
+            "Cyber Terrorism (Section 66F): Using computer resources to threaten India’s sovereignty, integrity, or security, or to cause terror.",
+            "Publishing Obscene Material (Section 67): Transmitting or publishing sexually explicit content electronically.",
+            "Violation of Privacy (Section 66E): Intentionally capturing or publishing private images of a person without consent.",
+            "Data Theft (Section 43): Unauthorized copying, downloading, or extracting of data from a computer system.",
+            "Phishing and Fraud (Section 66): Sending fraudulent emails or creating fake websites to steal sensitive information."
+          ],
+          "penalties_prescribed": [
+            "Hacking (Section 66): Imprisonment up to 3 years and/or fine up to ₹5 lakh.",
+            "Identity Theft (Section 66C): Imprisonment up to 3 years and/or fine up to ₹1 lakh.",
+            "Cheating by Personation (Section 66D): Imprisonment up to 3 years and/or fine up to ₹1 lakh.",
+            "Cyber Terrorism (Section 66F): Imprisonment up to life.",
+            "Publishing Obscene Material (Section 67): First offense - imprisonment up to 3 years and/or fine up to ₹5 lakh; subsequent offense - imprisonment up to 5 years and/or fine up to ₹10 lakh.",
+            "Violation of Privacy (Section 66E): Imprisonment up to 3 years and/or fine up to ₹2 lakh.",
+            "Data Theft (Section 43): Compensation up to ₹5 crore for damages caused; criminal liability under Section 66 if intent is proven.",
+            "Non-compliance with Data Protection (Section 43A): Compensation for failure to protect sensitive personal data."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Legal recognition of electronic records and digital signatures for transactions and contracts.",
+              "Mandates intermediaries (e.g., ISPs, social media platforms) to comply with government orders for content removal or data provision.",
+              "Establishes the Controller of Certifying Authorities (CCA) to regulate digital signatures.",
+              "Empowers police officers (Inspector rank or above) to investigate cybercrimes without a warrant for cognizable offenses."
+            ],
+            "enforcing_authorities": [
+              "Cyber Crime Cells (State Police)",
+              "Adjudicating Officers (appointed under the IT Act)",
+              "Controller of Certifying Authorities (CCA)",
+              "Central Bureau of Investigation (CBI) for major cases"
+            ],
+            "amendments": [
+              "2008: Introduced Sections 66A (struck down in 2015), 66B–66F for specific cybercrimes, strengthened penalties, and added privacy provisions.",
+              "Proposed updates under the Digital India Act (as of 2025) aim to replace the IT Act with stricter cybersecurity norms."
+            ],
+            "notable_cases": [
+              "Shreya Singhal vs. Union of India (2015): Struck down Section 66A for being vague and violating free speech.",
+              "Prajwala Case (2019): Directed intermediaries to remove child sexual abuse material proactively."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+        "prompt": "Explain the Land Acquisition, Rehabilitation and Resettlement Act, 2013 – its process and compensatory mechanisms.",
+        "details": {
+          "explanation": "The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (LARR Act) governs land acquisition by the government for public purposes in India. Replacing the colonial Land Acquisition Act, 1894, it aims to ensure fair compensation, transparency, and rehabilitation for affected landowners and communities. The Act balances developmental needs with the rights of landholders, emphasizing consent, social impact assessment, and comprehensive resettlement.",
+          "process": [
+            "Preliminary Notification: The government issues a notification identifying the land needed for a public purpose, followed by a Social Impact Assessment (SIA) to evaluate the project’s impact on affected families.",
+            "Consent: For private projects, consent of 80% of affected landowners is required; for public-private partnerships, 70% consent is needed. No consent is required for government projects.",
+            "SIA and Appraisal: The SIA report, prepared within 6 months, assesses displacement, environmental impact, and livelihood losses, and is appraised by an expert group.",
+            "Declaration and Acquisition: After SIA approval, a declaration of acquisition is published, and the land is acquired following compensation and rehabilitation agreements.",
+            "Rehabilitation and Resettlement (R&R): A detailed R&R plan is implemented, ensuring affected families receive compensation, housing, and livelihood support before displacement."
+          ],
+          "compensatory_mechanisms": [
+            "Monetary Compensation: Rural landowners receive 4 times the market value of land; urban landowners receive 2 times the market value, plus the value of assets (e.g., trees, structures).",
+            "Rehabilitation and Resettlement Package: Includes housing for displaced families, a one-time resettlement allowance of ₹50,000, and a subsistence allowance of ₹3,000 per month for one year.",
+            "Livelihood Support: At least one job per affected family in the project or a one-time payment of ₹5 lakh, plus skill training for unemployed members.",
+            "Land-for-Land: In irrigation projects, affected families losing agricultural land are entitled to 1 acre of land in the command area, where feasible.",
+            "Additional Benefits: 20% of developed land returned to landowners in urban projects, plus inflation-linked annuity payments of ₹2,000 per month for 20 years."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Mandatory SIA for all acquisitions except in urgent cases (e.g., national security).",
+              "Public purpose includes infrastructure, industrialization, and public-private partnership projects.",
+              "Safeguards for multi-crop land, restricting acquisition to minimize agricultural disruption.",
+              "Establishes Land Acquisition, Rehabilitation and Resettlement Authority for dispute resolution.",
+              "Return of unutilized land to original owners after 5 years if the project does not proceed."
+            ],
+            "enforcing_authorities": [
+              "District Collectors",
+              "State Land Acquisition Authorities",
+              "Land Acquisition, Rehabilitation and Resettlement Authority",
+              "Ministry of Rural Development"
+            ],
+            "punishments": [
+              "Imprisonment up to 7 years and/or fines for obstructing acquisition or providing false information.",
+              "Penalties for non-compliance with R&R obligations by acquiring bodies."
+            ],
+            "notable_cases": [
+              "Singur Case (2016): Land returned to farmers due to non-utilization, influenced by LARR principles.",
+              "Kedar Nath Yadav vs. State of U.P. (2016): Upheld fair compensation under the Act."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Mental Healthcare Act, 2017",
+        "prompt": "Summarize the Mental Healthcare Act, 2017 – patient rights, institutional care, and government duties.",
+        "details": {
+          "summary": "The Mental Healthcare Act, 2017 is a progressive legislation aimed at protecting the rights of persons with mental illness, ensuring access to mental healthcare, and promoting their dignity and autonomy. It replaces the Mental Health Act, 1987, aligning with international human rights standards, particularly the UN Convention on the Rights of Persons with Disabilities. The Act emphasizes patient-centric care, decriminalizes suicide, and mandates government responsibilities to provide mental health services.",
+          "patient_rights": [
+            "Right to Access Mental Healthcare: Every person has the right to affordable, quality mental health services without discrimination.",
+            "Right to Make Decisions: Patients have the right to make advance directives specifying their treatment preferences and nominate representatives to make decisions on their behalf.",
+            "Right to Dignity and Privacy: Protection against inhumane treatment, forced treatment, and unauthorized disclosure of medical information.",
+            "Right to Community Living: Patients cannot be forced to live in mental health establishments if they can live independently.",
+            "Decriminalization of Suicide: Attempting suicide is not punishable; instead, it is treated as a sign of mental distress requiring care."
+          ],
+          "institutional_care": [
+            "Regulation of Mental Health Establishments: All facilities (government and private) must be registered with the Central or State Mental Health Authority and meet prescribed standards.",
+            "Restricted Use of Electroconvulsive Therapy (ECT): Prohibited for minors and only allowed for adults with informed consent and anesthesia.",
+            "Admission and Discharge: Voluntary admission is prioritized; involuntary admission is allowed only under strict conditions, reviewed by Mental Health Review Boards.",
+            "Prohibited Practices: Bans seclusion, chaining, and unmodified ECT to ensure humane treatment.",
+            "Review Mechanisms: Mental Health Review Boards oversee admissions, treatment, and complaints to protect patient rights."
+          ],
+          "government_duties": [
+            "Provide Mental Health Services: Ensure availability of mental health facilities, including outpatient and inpatient care, in every district.",
+            "Establish Authorities: Set up Central and State Mental Health Authorities to regulate and monitor mental health establishments.",
+            "Promote Awareness: Educate the public to reduce stigma and promote mental health literacy.",
+            "Train Professionals: Ensure adequate training for psychiatrists, psychologists, and mental health workers.",
+            "Fund Programs: Allocate budgets for mental health infrastructure, including halfway homes and rehabilitation centers."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Advance directives allow patients to specify treatment preferences, ensuring autonomy.",
+              "Mandatory registration of mental health professionals and establishments.",
+              "Free mental healthcare for homeless persons and those below the poverty line."
+            ],
+            "punishments": [
+              "Imprisonment up to 6 months and/or fine up to ₹10,000 for operating unregistered mental health establishments.",
+              "Imprisonment up to 2 years and/or fine up to ₹5 lakh for violating patient rights or using prohibited treatments."
+            ],
+            "enforcing_authorities": [
+              "Central Mental Health Authority",
+              "State Mental Health Authorities",
+              "Mental Health Review Boards",
+              "District Courts"
+            ],
+            "notable_cases": [
+              "Gaurav Kumar Bansal vs. Union of India (2019): Directed governments to implement the Act fully.",
+              "X vs. Union of India (2017): Upheld advance directives and patient autonomy."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Transplantation of Human Organs and Tissues Act, 1994",
+        "prompt": "Describe the Transplantation of Human Organs and Tissues Act, 1994 – donation rules and penalties for illegal trade.",
+        "details": {
+          "description": "The Transplantation of Human Organs and Tissues Act, 1994 (THOTA) regulates organ and tissue donation and transplantation in India to prevent illegal trade and ensure ethical practices. It facilitates organ donation from deceased and living donors, establishes a framework for transplant procedures, and imposes strict penalties for commercial dealings in human organs. The Act aims to meet medical needs while protecting vulnerable populations from exploitation.",
+          "donation_rules": [
+            "Living Donation: Permitted only among near relatives (spouse, parents, siblings, children, grandparents, grandchildren) with Authorization Committee approval; non-relatives require proof of altruistic motives and no commercial intent.",
+            "Deceased Donation: Organs can be retrieved from brain-dead individuals with consent from the family or prior consent of the deceased (via organ donor registration).",
+            "Hospital Registration: Only hospitals registered with the Appropriate Authority can perform transplants, ensuring compliance with medical and ethical standards.",
+            "Authorization Committees: Oversee and approve living donor transplants to prevent coercion or commercial transactions.",
+            "National Organ Transplant Programme: Facilitates deceased organ donation and maintains a registry for donors and recipients."
+          ],
+          "penalties_for_illegal_trade": [
+            "Imprisonment from 5 to 10 years and fines from ₹20 lakh to ₹1 crore for commercial dealings in organs, including buying, selling, or brokering.",
+            "Imprisonment up to 7 years and fines up to ₹10 lakh for removing organs without authority or consent.",
+            "Deregistration of hospitals and medical practitioners involved in illegal transplants, along with professional disqualification.",
+            "Imprisonment up to 3 years and fines for abetting or facilitating illegal organ trade."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Mandatory verification of brain death by a panel of doctors for deceased donations.",
+              "Prohibits organ donation by minors, except in exceptional cases with parental consent and committee approval.",
+              "Requires maintenance of transplant records for transparency and audit.",
+              "Promotes awareness of organ donation through campaigns and donor registries."
+            ],
+            "enforcing_authorities": [
+              "National Organ and Tissue Transplant Organization (NOTTO)",
+              "State Appropriate Authorities",
+              "Authorization Committees",
+              "State Police"
+            ],
+            "amendments": [
+              "2011: Expanded scope to include tissue donation and transplantation; strengthened penalties.",
+              "2014: Introduced stricter regulations for swap donations and non-relative donations."
+            ],
+            "notable_cases": [
+              "Parvati Devi vs. State of Delhi (2009): Conviction for illegal kidney trade racket.",
+              "HKS Jacob vs. Union of India (2018): Upheld stringent measures against organ trafficking."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Environment Protection Act, 1986",
+        "prompt": "Explain the Environment Protection Act, 1986 – powers of the government and environmental regulations.",
+        "details": {
+          "explanation": "The Environment Protection Act, 1986 (EPA) is a comprehensive legislation enacted to protect and improve the environment in India, following the Bhopal Gas Tragedy. It provides a framework for addressing environmental pollution, conserving natural resources, and ensuring sustainable development. The Act empowers the central government to take measures to prevent environmental degradation and enforce regulations across air, water, soil, and biodiversity.",
+          "powers_of_the_government": [
+            "Rule-Making Authority: The central government can formulate rules to regulate environmental standards, emission limits, and waste management practices.",
+            "Closure and Prohibition: Power to close, prohibit, or regulate industries and processes that violate environmental norms.",
+            "Inspection and Seizure: Authorizes officials to inspect premises, collect samples, and seize equipment or materials causing pollution.",
+            "Penalties and Prosecution: Can initiate legal action against violators, including imprisonment and fines for non-compliance.",
+            "Coordination: Establish authorities like the Central Pollution Control Board (CPCB) to monitor and enforce environmental compliance."
+          ],
+          "environmental_regulations": [
+            "Emission and Discharge Standards: Prescribes limits for pollutants in air, water, and soil from industries and vehicles.",
+            "Hazardous Waste Management: Regulates the handling, storage, and disposal of hazardous chemicals and wastes.",
+            "Environmental Clearance: Mandates Environmental Impact Assessments (EIAs) for projects like mining, dams, or industries in ecologically sensitive areas.",
+            "Coastal Regulation Zones (CRZ): Restricts activities in coastal areas to protect marine ecosystems.",
+            "Noise Pollution Control: Sets standards for noise levels in residential, commercial, and industrial areas."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Empowers the government to declare ecologically sensitive areas and restrict industrial activities.",
+              "Provides for public participation in environmental decision-making through EIAs.",
+              "Imposes strict liability on polluters for environmental damage (Polluter Pays Principle)."
+            ],
+            "punishments": [
+              "Imprisonment up to 5 years and/or fine up to ₹1 lakh for violating environmental norms.",
+              "Additional fine of ₹5,000 per day for continued violations.",
+              "Imprisonment up to 7 years for causing serious environmental damage."
+            ],
+            "enforcing_authorities": [
+              "Central Pollution Control Board (CPCB)",
+              "State Pollution Control Boards (SPCBs)",
+              "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+              "National Green Tribunal (NGT)"
+            ],
+            "notable_cases": [
+              "M.C. Mehta vs. Union of India (1987): Ordered closure of polluting industries in Delhi.",
+              "Vellore Citizens Welfare Forum vs. Union of India (1996): Established the Precautionary Principle and Polluter Pays Principle."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Wildlife Protection Act, 1972",
+        "prompt": "Give an overview of the Wildlife Protection Act, 1972 – protected species, zones, and offences.",
+        "details": {
+          "overview": "The Wildlife Protection Act, 1972 (WPA) is India’s primary legislation for protecting wild animals, birds, and plants, aiming to conserve biodiversity and prevent extinction. It establishes a framework for regulating hunting, trade, and habitat destruction, while promoting the creation of protected areas like national parks and sanctuaries. The Act aligns with India’s commitments under international conventions like CITES.",
+          "protected_species": [
+            "Schedule I: Critically endangered species (e.g., Bengal tiger, Indian rhinoceros, Asiatic lion) with the highest protection; hunting is completely prohibited.",
+            "Schedule II: Vulnerable species (e.g., Indian elephant, leopard) with strict restrictions on hunting and trade.",
+            "Schedule III and IV: Other protected species (e.g., deer, certain birds) with regulated hunting permissions.",
+            "Schedule V: Vermin species (e.g., common crow, rats) with fewer protections, allowing controlled culling.",
+            "Schedule VI: Protected plants (e.g., sandalwood, orchids), prohibiting unauthorized collection or trade."
+          ],
+          "zones": [
+            "National Parks: Highly protected areas (e.g., Jim Corbett, Kaziranga) where human activities like grazing or resource extraction are prohibited.",
+            "Wildlife Sanctuaries: Allow limited human activities (e.g., tourism) with permission, but prioritize wildlife conservation (e.g., Ranthambore).",
+            "Conservation Reserves: Community-managed areas adjacent to protected zones for sustainable use and conservation.",
+            "Community Reserves: Managed by local communities to protect biodiversity while allowing traditional practices.",
+            "Tiger Reserves: Specially designated for tiger conservation (e.g., Sundarbans) with core and buffer zones."
+          ],
+          "offences": [
+            "Hunting Protected Species: Illegal killing or capturing of Schedule I–IV animals without permission.",
+            "Trade in Wildlife Articles: Selling or possessing trophies, skins, or derivatives of protected species.",
+            "Habitat Destruction: Damaging or altering habitats in protected areas without authorization.",
+            "Unauthorized Entry: Entering or residing in national parks or sanctuaries without permission.",
+            "Illegal Plant Collection: Collecting or trading Schedule VI plants without a license."
+          ],
+          "additional_information": {
+            "punishments": [
+              "Imprisonment from 3 to 7 years and fine of at least ₹10,000 for hunting or trading Schedule I species.",
+              "Imprisonment up to 3 years and/or fine for lesser offenses (e.g., Schedule III–IV violations).",
+              "Forfeiture of equipment, vehicles, or wildlife articles used in offenses.",
+              "Enhanced penalties for repeat offenders."
+            ],
+            "enforcing_authorities": [
+              "Chief Wildlife Warden (State)",
+              "Forest Departments",
+              "Wildlife Crime Control Bureau (WCCB)",
+              "National Tiger Conservation Authority (NTCA)"
+            ],
+            "amendments": [
+              "2002: Strengthened penalties and established the NTCA.",
+              "2006: Introduced provisions for tiger reserves and community reserves."
+            ],
+            "notable_cases": [
+              "Sansar Chand Case (2004): Conviction for illegal wildlife trade under WPA.",
+              "T.N. Godavarman vs. Union of India (1997): Strengthened wildlife habitat protection."
+            ]
+          }
+        }
+      },
+      {
+        "name": "Forest Conservation Act, 1980",
+        "prompt": "Summarize the Forest Conservation Act, 1980 – forest usage restrictions and penalties.",
+        "details": {
+          "summary": "The Forest Conservation Act, 1980 (FCA) aims to conserve India’s forests by regulating the diversion of forest land for non-forest purposes, such as mining, industry, or infrastructure. It seeks to prevent deforestation, protect biodiversity, and ensure sustainable forest management by requiring central government approval for any forest land use change.",
+          "forest_usage_restrictions": [
+            "Prior Approval: No state government or authority can de-reserve forest land or allow non-forest activities (e.g., mining, construction) without prior approval from the Ministry of Environment, Forest and Climate Change (MoEFCC).",
+            "Non-Forest Purposes: Activities like agriculture, industry, or urbanization on forest land are restricted unless justified for public interest and compensated.",
+            "Compensatory Afforestation: Any diversion of forest land requires afforestation on equivalent non-forest land or degraded forest land, funded by the user agency.",
+            "Protected Areas: Stricter restrictions apply to forest land within national parks, wildlife sanctuaries, or ecologically sensitive zones.",
+            "Temporary Use: Temporary diversion for projects (e.g., transmission lines) is allowed with conditions for restoration post-use."
+          ],
+          "penalties": [
+            "Imprisonment up to 15 days for unauthorized use of forest land or violation of FCA provisions.",
+            "Fines and restoration orders for illegal deforestation or non-compliance with afforestation requirements.",
+            "Cancellation of project approvals and seizure of illegally used forest land.",
+            "Liability for environmental damage, including costs for ecological restoration."
+          ],
+          "additional_information": {
+            "key_provisions": [
+              "Applies to all forest land, regardless of ownership, as per the Supreme Court’s ruling in T.N. Godavarman (1996).",
+              "Establishes a Forest Advisory Committee to evaluate diversion proposals.",
+              "Mandates Net Present Value (NPV) payments by user agencies for ecological services lost due to diversion."
+            ],
+            "enforcing_authorities": [
+              "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+              "State Forest Departments",
+              "Regional Offices of MoEFCC",
+              "National Green Tribunal (NGT)"
+            ],
+            "amendments": [
+              "2023 (Proposed): Clarified exemptions for strategic projects and simplified approvals for certain non-forest uses, sparking debates on environmental impact."
+            ],
+            "notable_cases": [
+              "T.N. Godavarman vs. Union of India (1996): Expanded the definition of ‘forest’ to include all areas with forest characteristics.",
+              "Lafarge Umiam Mining Case (2011): Upheld FCA’s requirement for environmental clearance and afforestation."
+            ]
+          }
+        }
+      } 
+    ]
+  }
